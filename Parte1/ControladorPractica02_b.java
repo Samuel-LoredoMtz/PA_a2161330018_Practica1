@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 public class ControladorPractica02_b {
 
-    public static void main(String[] args) {
+    public ControladorPractica02_b() {
         EventQueue.invokeLater(new Runnable() {
             public void run() {
                 try {

@@ -4,7 +4,7 @@ import java.awt.EventQueue;
 
 public class ControladorPractica01_02 {
 
-    public static void main(String[] args) {
+    public ControladorPractica01_02() {
         EventQueue.invokeLater(new Runnable() {
             public void run() {
                 try {
@@ -17,3 +17,4 @@ public class ControladorPractica01_02 {
         });
     }
 }
+

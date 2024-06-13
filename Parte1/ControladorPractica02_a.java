@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 
 public class ControladorPractica02_a {
 
-    public static void main(String[] args) {
+    public ControladorPractica02_a() {
         EventQueue.invokeLater(new Runnable() {
             public void run() {
                 try {
